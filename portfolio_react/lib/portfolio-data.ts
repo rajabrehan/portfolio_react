@@ -6,7 +6,7 @@ export const site = {
   tagline:
     "Computer Science @ Toronto Metropolitan University · AI & full-stack · Seeking SWE & ML internships",
   summary:
-    "Second-year B.Sc. Computer Science student with experience fine-tuning LLMs at Cohere, six hackathon wins, and community leadership across 6,000+ members. I build production-minded AI and web products—from misinformation detection to healthcare advocacy tools.",
+    "Final year B.Sc. Computer Science student",
   links: {
     linkedin: "https://www.linkedin.com/in/rajab-rehan/",
     github: "https://github.com/rajabrehan",
